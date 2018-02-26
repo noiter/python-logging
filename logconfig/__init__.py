@@ -1,0 +1,1 @@
+from logconfig.settings import LoggingSettings

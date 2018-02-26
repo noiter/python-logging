@@ -4,7 +4,7 @@ import sys
 import logging
 
 sys.path.insert(0, os.getcwd())
-from customlogging import LoggingSettings
+from logconfig import LoggingSettings
 from tmodule import TModule
 
 def main():

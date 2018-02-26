@@ -3,7 +3,7 @@ import logging.config
 import json
 
 class LoggingSettings:
-    DEFAULT_LOGGING_CONFIG_PATH = 'customlogging/config/logging.json'
+    DEFAULT_LOGGING_CONFIG_PATH = 'logconfig/config/logging.json'
     SYSTEM_LOGGING_CONFIG_VARIABLE = 'LOG_CFG'
 
     def __init__(self):
